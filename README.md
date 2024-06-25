@@ -2,12 +2,15 @@
 糖尿病肾病的小鼠肾小球分析
 
 参考文献：
+
 Fu J, Akat KM, Sun Z, et al. Single-Cell RNA Profiling of Glomerular Cells Shows Dynamic Changes in Experimental Diabetic Kidney Disease. J Am Soc Nephrol. 2019;30(4):533-545. doi:10.1681/ASN.2018090896
 
 数据下载：
+
 GSE111107
 
 组织来源：
+
 eNOS缺陷症（eNOS−/−）的小鼠是C57BL/6背景。8周龄小鼠连续五天注射STZ诱导糖尿病（DM）（腹膜内注射50μg/g体重/天）。每两周通过血糖仪读数监测体重和空腹血糖水平，空腹血糖水平 >300 mg/dl 确诊 DM。
 注射柠檬酸盐载体的年龄和性别匹配的同窝仔作为非糖尿病对照。每两周收集一次尿液样本。
 小鼠在诱导 DM 后 10 周被安乐死。
